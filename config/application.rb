@@ -18,8 +18,6 @@ require "sprockets/railtie"
 Bundler.require(*Rails.groups)
 
 module HerokuTrial
-=======
-module BikesHeroku
 >>>>>>> 3b3658cc892a82af9f9818bce8e1091c022de3ab
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
