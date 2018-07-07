@@ -3795,3 +3795,108 @@ Processing by SimplePagesController#index as HTML
 Completed 200 OK in 97ms (Views: 93.0ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2018-07-07 18:03:22 -0400
+Processing by SimplePagesController#index as HTML
+  Rendering simple_pages/index.html.erb within layouts/application
+  Rendered simple_pages/index.html.erb within layouts/application (219.8ms)
+Completed 200 OK in 276ms (Views: 265.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simple_pages/about" for 127.0.0.1 at 2018-07-07 18:03:32 -0400
+Processing by SimplePagesController#about as HTML
+  Rendering simple_pages/about.html.erb within layouts/application
+  Rendered simple_pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 30ms (Views: 23.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simple_pages/contact" for 127.0.0.1 at 2018-07-07 18:03:33 -0400
+Processing by SimplePagesController#contact as HTML
+  Rendering simple_pages/contact.html.erb within layouts/application
+  Rendered simple_pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 27ms (Views: 22.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simple_pages/about" for 127.0.0.1 at 2018-07-07 18:03:34 -0400
+Processing by SimplePagesController#about as HTML
+  Rendering simple_pages/about.html.erb within layouts/application
+  Rendered simple_pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 60ms (Views: 53.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-07 18:03:36 -0400
+Processing by SimplePagesController#index as HTML
+  Rendering simple_pages/index.html.erb within layouts/application
+  Rendered simple_pages/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 72ms (Views: 66.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simple_pages/about" for 127.0.0.1 at 2018-07-07 18:04:12 -0400
+Processing by SimplePagesController#about as HTML
+  Rendering simple_pages/about.html.erb within layouts/application
+  Rendered simple_pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 62ms (Views: 56.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simple_pages/contact" for 127.0.0.1 at 2018-07-07 18:04:14 -0400
+Processing by SimplePagesController#contact as HTML
+  Rendering simple_pages/contact.html.erb within layouts/application
+  Rendered simple_pages/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 61ms (Views: 56.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simple_pages/about" for 127.0.0.1 at 2018-07-07 18:04:16 -0400
+Processing by SimplePagesController#about as HTML
+  Rendering simple_pages/about.html.erb within layouts/application
+  Rendered simple_pages/about.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 76ms (Views: 71.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-07 18:04:18 -0400
+Processing by SimplePagesController#index as HTML
+  Rendering simple_pages/index.html.erb within layouts/application
+  Rendered simple_pages/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 63ms (Views: 58.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simple_pages/about" for 127.0.0.1 at 2018-07-07 18:04:19 -0400
+Processing by SimplePagesController#about as HTML
+  Rendering simple_pages/about.html.erb within layouts/application
+  Rendered simple_pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 57ms (Views: 52.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simple_pages/contact" for 127.0.0.1 at 2018-07-07 18:04:19 -0400
+Processing by SimplePagesController#contact as HTML
+  Rendering simple_pages/contact.html.erb within layouts/application
+  Rendered simple_pages/contact.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 60ms (Views: 55.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simple_pages/about" for 127.0.0.1 at 2018-07-07 18:04:20 -0400
+Processing by SimplePagesController#about as HTML
+  Rendering simple_pages/about.html.erb within layouts/application
+  Rendered simple_pages/about.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 70ms (Views: 65.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-07-07 18:04:21 -0400
+Processing by SimplePagesController#index as HTML
+  Rendering simple_pages/index.html.erb within layouts/application
+  Rendered simple_pages/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 65ms (Views: 60.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simple_pages/about" for 127.0.0.1 at 2018-07-07 18:04:28 -0400
+Processing by SimplePagesController#about as HTML
+  Rendering simple_pages/about.html.erb within layouts/application
+  Rendered simple_pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 62ms (Views: 57.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simple_pages/contact" for 127.0.0.1 at 2018-07-07 18:04:29 -0400
+Processing by SimplePagesController#contact as HTML
+  Rendering simple_pages/contact.html.erb within layouts/application
+  Rendered simple_pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 66ms (Views: 62.1ms | ActiveRecord: 0.0ms)
+
+
